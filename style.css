@@ -6,15 +6,6 @@
   box-sizing:border-box;
   font-family:"Poppins", sans-serif;
 }
-/*section{
-
-  position: relative;
-  width: 100%;
-  height:100vh;
-  background:url(bg.jpg);
-  background-size:contain; */
-
-
 body{
   position:relative;
   display:flex;
